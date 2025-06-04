@@ -91,8 +91,9 @@ Dice = \frac{2 \times TP}{2 \times TP + FP + FN}
 Camouflaged-Object-Detection/
 │
 ├── Model/
+|   |--- ento.py
 │   ├── unet.py
-│   └── segnet.py
+│   └── segnet_model.py
 │
 ├── Dataset/
 │   └── COD10K-v3/
