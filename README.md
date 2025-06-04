@@ -91,7 +91,7 @@ Dice = \frac{2 \times TP}{2 \times TP + FP + FN}
 Camouflaged-Object-Detection/
 │
 ├── Model/
-|   |--- ento.py
+|   |--- ento_architecture.py
 │   ├── unet.py
 │   └── segnet_model.py
 │
